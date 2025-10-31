@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "author": "Priya Sharma",
+    "location": "Wakad, Pune",
+    "rating": 5,
+    "date": "2025-10-15",
+    "review": "Excellent packers and movers in Pune! DSL Express team arrived on time in Wakad. Packing was professional – no damage to my TV or glass items. Safe shifting from Wakad to Hinjewadi. Highly recommend for local moves."
+  },
+  {
+    "id": 2,
+    "author": "Rahul Mehta",
+    "location": "Hinjewadi Phase 3",
+    "rating": 4,
+    "review": "Used DSL Express for office relocation in Hinjewadi. Good coordination, but slight delay due to traffic. Furniture packed well. Affordable rates for packers and movers in Pune."
+  },
+  {
+    "id": 3,
+    "author": "Anita Desai",
+    "location": "Baner",
+    "rating": 5,
+    "review": "Best packers and movers in Baner! Shifted 2BHK without any breakage. Team was polite and efficient. Car transport from Pune to Mumbai was smooth. Will use again."
+  },
+  {
+    "id": 4,
+    "author": "Vikram Singh",
+    "location": "Kothrud",
+    "rating": 3,
+    "review": "Average experience. Packing quality was okay, but one box was damaged. Customer support resolved it. Need better bubble wrap for fragile items in Kothrud moves."
+  },
+  {
+    "id": 5,
+    "author": "Neha Kapoor",
+    "location": "Aundh",
+    "rating": 5,
+    "review": "Trusted packers and movers in Pune. Moved from Aundh to Bangalore – everything arrived safely. Bike transport was secure. Transparent pricing, no hidden charges."
+  },
+  {
+    "id": 6,
+    "author": "Amit Patel",
+    "location": "Viman Nagar",
+    "rating": 5,
+    "review": "Super fast service! Same-day shifting in Viman Nagar. Professional team, clean truck. Best for urgent packers and movers in Pune."
+  },
+  {
+    "id": 7,
+    "author": "Sonia Reddy",
+    "location": "Koregaon Park",
+    "rating": 4,
+    "review": "Good for premium packing. Used foam and crates for antiques. Minor delay in loading. Overall satisfied with Koregaon Park to Hadapsar move."
+  },
+  {
+    "id": 8,
+    "author": "Karan Joshi",
+    "location": "Pimpri Chinchwad",
+    "rating": 5,
+    "review": "Budget-friendly packers and movers in Pimpri. Shifted 1BHK under ₹6000. No damage, timely delivery. Recommended for students."
+  },
+  {
+    "id": 9,
+    "author": "Ritu Malhotra",
+    "location": "Magarpatta",
+    "rating": 2,
+    "review": "Not happy. Team was late by 3 hours. One sofa leg broken. Poor communication. Avoid for Magarpatta moves."
+  },
+  {
+    "id": 10,
+    "author": "Deepak Nair",
+    "location": "Wakad",
+    "rating": 5,
+    "review": "Outstanding! Handled my fish tank with care. Waterproof packing. Best packers and movers in Wakad for delicate items."
+  },
+  {
+    "id": 11,
+    "author": "Pooja Gupta",
+    "location": "Hinjewadi",
+    "rating": 5,
+    "review": "Corporate relocation done perfectly. IT equipment packed in anti-static bags. Zero downtime. Top choice for Hinjewadi office moves."
+  },
+  {
+    "id": 12,
+    "author": "Rajesh Kumar",
+    "location": "Baner",
+    "rating": 4,
+    "review": "Good value. Included insurance. Minor scratch on fridge, but compensated. Reliable packers and movers in Baner."
+  },
+  {
+    "id": 13,
+    "author": "Meera Iyer",
+    "location": "Kharadi",
+    "rating": 5,
+    "review": "Eco-friendly packing materials! Used recycled boxes. Smooth move from Kharadi to Delhi. Appreciate the green initiative."
+  },
+  {
+    "id": 14,
+    "author": "Arjun Verma",
+    "location": "Pashan",
+    "rating": 3,
+    "review": "Okay service. Truck was old. Packing speed good, but unloading messy. Average for Pashan to Viman Nagar shift."
+  },
+  {
+    "id": 15,
+    "author": "Shalini Bose",
+    "location": "Hadapsar",
+    "rating": 5,
+    "review": "Amazing team! Helped disassemble/reassemble furniture. No extra charges. Best packers and movers in Hadapsar."
+  },
+  {
+    "id": 16,
+    "author": "Nikhil Rao",
+    "location": "Wakad",
+    "rating": 5,
+    "review": "Used for bike transport Pune to Hyderabad. Scratch-free delivery. GPS tracking provided. Highly trusted."
+  },
+  {
+    "id": 17,
+    "author": "Tanya Singh",
+    "location": "Kothrud",
+    "rating": 4,
+    "review": "Good for small moves. 1RK shifted in 2 hours. Packing could be tighter for books. Satisfied overall."
+  },
+  {
+    "id": 18,
+    "author": "Rohan Desai",
+    "location": "Aundh",
+    "rating": 5,
+    "review": "Professional and punctual. Live tracking app. Safe shifting of piano. Top packers and movers in Aundh."
+  },
+  {
+    "id": 19,
+    "author": "Kavya Menon",
+    "location": "Koregaon Park",
+    "rating": 5,
+    "review": "Luxury packing for artwork. Climate-controlled truck. Perfect for high-value items in Koregaon Park."
+  },
+  {
+    "id": 20,
+    "author": "Sameer Khan",
+    "location": "Hinjewadi",
+    "rating": 5,
+    "review": "24/7 support. Night shifting done smoothly. Best for IT professionals in Hinjewadi. Thank you DSL Express!"
+  }
+]
